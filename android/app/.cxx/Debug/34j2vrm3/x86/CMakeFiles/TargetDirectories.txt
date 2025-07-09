@@ -1,0 +1,2 @@
+C:/src/project/movie-app/movie-app-project10/android/app/.cxx/Debug/34j2vrm3/x86/CMakeFiles/edit_cache.dir
+C:/src/project/movie-app/movie-app-project10/android/app/.cxx/Debug/34j2vrm3/x86/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {
+  const SplashScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -14,7 +16,7 @@ class SplashScreen extends StatelessWidget {
           ),
           Positioned(
               left: 10,
-              top: 7,
+              top: 10,
               child: Image.asset(
                 'assets/logo.png',
                 width: 150, // You can adjust the size as needed
